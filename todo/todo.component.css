@@ -1,0 +1,21 @@
+.completed {
+    text-decoration: line-through;
+    text-decoration-color: rgb(163, 138, 219);
+  }
+  p,h2,div{
+    text-align: center;
+    color: chartreuse;
+  }
+  button{
+    text-align: center;
+    background-color: rgb(255, 174, 0);
+  }
+   
+img{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+    height: 100px;
+}
+
+  
